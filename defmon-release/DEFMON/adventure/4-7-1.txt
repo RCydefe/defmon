@@ -1,0 +1,8 @@
+description: You walk into a wide field with a steep cliff to the northern side. As you make your way across the field, you take note of all the different types of animal skeletons scattered about. It’s a wonder how the overgrown field is able to hide so many. The field stretches to the south, but you see you are approaching a beach to the west. You can investigate the field, or see the wildlife at the beach. Or both. Don’t let us tell you what to do.
+items: compass: its a complicated moral compass.
+north: 5-6-1
+south: none
+east: 4-7-1
+west: 4-5-1
+inventory_items: none
+catch_attempts: 1

@@ -1,0 +1,9 @@
+description: Leaving the rocky terrain behind, the gently falling snow coats the path near the top of the mountain. With muffled footsteps, you silently traverse the rolling hills. In your periphery, your eyes catch vibrantly colored beams of light that disappear as quickly as they form. Purple, orange, and green wisps dance closer to the path but move too fast to tell what they are. Finally you get a visual lock on a purple faery as it crosses the path in front of you, and you realize you’re surrounded by the benevolent Rhishaeva forest faeries. They investigate you as you continue down the path, tugging and prodding at your clothes and pack. One lands on your shoulder and plucks a hair from your head unexpectedly. A painful cry escapes your lips before you can catch yourself as you swat at the faery to make it leave, while a watchful group giggles at the mischief. Suddenly a thunderous roar echoes from the wintery forest and the faeries scatter in all directions. The rumbling shakes the snow from the trees as it stampedes towards you and a group of Orcs clammers into view. 
+You turn and bolt down the path as fast as possible as the Orcs are quickly gaining on you. You can’t outrun them, but there isn’t anywhere to hide. As you round the corner you see a small cave entrance, rotten wood beams, and loose rubble above the entrance. You slam the support beam as hard as you can, splintering it and falling into the cave entrance. The overhead beam crumbles from the weight and all rubble falls to block the entryway. The sound of Orcs moving the rocks can be heard from the other side and you know you don’t have long to get through to the other side of this cave.
+items: none
+north: 4-2-1
+south: none
+east: 3-3-1
+west: none
+inventory_items: none
+catch_attempts: 0

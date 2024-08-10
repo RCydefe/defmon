@@ -1,0 +1,22 @@
+{
+    "defmons": [
+        {"name": "Aetherant", "description": "Insectoid creatures that work collectively in the unseen spaces of the internet, building and maintaining the structural integrity of the digital world.", "caught": false},
+        {"name": "BinBanshee", "description": "With screams that can shatter data structures, these entities are feared in the digital world, often heralding the crash of systems or the corruption of files.", "caught": false},
+        {"name": "Bytegeist", "description": "Ghostly entities that haunt the internet, moving through networks and causing digital mischief.", "caught": false},
+        {"name": "Circuitaur", "description": "Half-machine, half-beast creatures with bodies adorned in complex circuitry, capable of generating electromagnetic fields to protect their domain.", "caught": false},
+        {"name": "Datawyrm", "description": "Cunning digital spirits that navigate the vast expanse of the cyber ether, leaving trails of puzzles and riddles in their wake.", "caught": false},
+        {"name": "Etherfox", "description": "A stealthy forest guardian.", "caught": false},
+        {"name": "Gigawisp", "description": "Tiny, glowing creatures that live in the cloud, capable of carrying vast amounts of information over long distances at the speed of light.", "caught": false},
+        {"name": "Hackwolf", "description": "Lupine creatures with the ability to interface directly with technology, using their howls to communicate over vast digital distances..", "caught": false},
+        {"name": "Infobasil", "description": "Creatures whose gaze can freeze systems, turning data into incomprehensible strings of code, feared by all who tread the digital underworld.", "caught": false},
+        {"name": "Leviathan", "description": "Massive creatures that reside in the deep web, embodying the vast, uncharted territories of the internet and protecting ancient digital secrets.", "caught": false},
+        {"name": "NanitNymph", "description": "Tiny, benevolent beings that repair and maintain the microscopic world of nanotechnology, often unseen but crucial to the smooth operation of advanced tech.", "caught": false},
+        {"name": "Phantobyte", "description": "Ethereal entities that can pass through any digital barrier, leaving traces of their passage like digital footprints in the snow.", "caught": false},
+        {"name": "Pulseprowl", "description": " Night creatures that travel via electrical pulses, their presence often heralding system outages or, conversely, the repair and restoration of electrical grids.", "caught": false},
+        {"name": "Terrabytan", "description": "Colossal entities composed of solid data, they shape and manipulate the digital terrain, creating and destroying data landscapes at will.", "caught": false},
+        {"name": "Voltgeist", "description": "Spirits of electricity that inhabit and travel through power lines, capable of manipulating electronic devices..", "caught": false},
+        {"name": "PixelPixie", "description": "Tiny, fluttering beings that sprinkle creative inspiration across digital canvases, responsible for moments of brilliance in graphic design and digital art.", "caught": false},
+        {"name": "Data Drake", "description": "Dragon-like entities that hoard vast amounts of information rather than gold, fiercely protecting their treasures from data thieves and hackers.", "caught": false},
+        {"name": "Codenix", "description": "Bird-like creatures with feathers made of pure data, capable of soaring through the digital skies, carrying messages and codes across the cybernetic expanse.", "caught": false}
+    ]
+}

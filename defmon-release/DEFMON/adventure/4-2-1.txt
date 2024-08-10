@@ -1,0 +1,9 @@
+description: The cave’s ceiling is riddled with pinholes that light the passageways. You manage your way through the limited light until a glow shines in the far end of the passage. A cavern opens up and the light becomes blinding as the sun reflects off of hundreds of emeralds, rubies, and sapphires embedded in the cave walls. The jewels pluck out of the wall with ease, each one bigger than the last, until you’ve collected a king’s fortune into a pile in the middle of the space. This is the fortune of legends, fortunes that build empires. Truly life-changing, generational wealth. 
+You open your satchel and cram a handful of jewels into the opening, but they glance off and fall to the floor. You try again and again but it’s no use. The jewels will not go into the bag. You rip the bag open, flip it upside down and dump out all the contents. You shake it until every piece of lint is jostled from the bag. You bang your fists into the opening. You cry. You plead. You barter the ancient gods to have mercy and let you just have this one win. Just this one. The stages of grief pass through your core in a flash as you realize that you can put anything into your bag except for this monumental fortune. You sit. And you weep. A deep, sobering weep. You wipe the tears from your face as you place all your items back into your satchel. Back into your.....oof. You sling your bag over your shoulder and head for the exit of the cave.
+items: treasure: The fortune of 10 lifetimes. No room in your pack to take any of it. Ever.
+north: none
+south: 3-2-1
+east: 4-1-1
+west: none
+inventory_items: none
+catch_attempts: 1

@@ -1,0 +1,8 @@
+description: You step onto a freshly harvested wheat field. Neatly rolled bails of straw are stacked in rows as far as you can see. To the north you see a patch of brambles, and to the east, the beginnings of a small forest, and to the west is a snow capped mountain. On the ground, you see a small pile of spilled wheat, still dry enough to be milled into flour. 
+items: wheat grains: these can be milled into flour and used as a weapon against celieacs and the gluten sensitive or baked into all manner of tasty goods. 
+north: none
+south: none
+east: 1-6-1
+west: 1-8
+inventory_items: none
+catch_attempts: 1

@@ -1,0 +1,9 @@
+description: The world around you starts to fade out of existence. Another portal stands in front of you.
+items: none: you see nothing of interest.
+north: 3-5-3
+south: none
+south_with_hackwolf: 3-5-5
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

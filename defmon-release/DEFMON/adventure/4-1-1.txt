@@ -1,0 +1,9 @@
+description: Broken-heartedly, you exit the cave on the far side of the mountain. A sheared cliff wall on the southern side drops into a static fog that stretches into the beyond. The northern redwoods stand tall and cast mighty shadows through the grassland as you move into yet another woodland. Looking into the branches, you begin to recognize the remnants of tree hut frames and decaying rope ladders. Tree trunk markings indicate they were used as corner posts for small buildings, with rusty nails still exposed in the bark. The forest floor opens up into a trampled clearing where it’s clear a village used to exist. The pawprints, still defined in the dried mud, look to be baby bear prints, as they’re too small to be an adult. The size would lead one to believe they were about 3 to 4 feet tall. Discarded clothes nearby look to be clothing, but it’s just enough to be a head covering or shirt. As you pull a fur tuft from the cloth, you’re sure it’s a bear, but it’s so small. The word “wicket” is carved into a tree on the edge of the settlement, and an Endorian steel blade with a crimson handle is stabbed into the tree beside the name.
+Several waterfalls feed into a reservoir to the north where the crag empties into the river. A mountain lies on the other side of the pool.
+items: knife: A simple but efficient knife.
+north: 5-1-1
+south: none
+east: 4-2-1
+west: none
+inventory_items: none
+catch_attempts: 1

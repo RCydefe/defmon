@@ -1,0 +1,10 @@
+description: The terrain gradually grows steeper and colder until you find yourself slogging through a snowy alpine wilderness. The evergreen branches that surround you are heavy with snow. You glance over your shoulder as the hairs on your neck stand up to tell you that you’re not alone. As you pick up your pace to avoid the unseen eyes you step into a hidden drainage and find yourself submerged in a half frozen creek. Your vision fades as you go into shock, and then nothing. 
+You wake up in a lodge next to a fireplace looking at the face of a surly Saint Brenard with the name Sgt Borkenstein emblazoned on the brandy barrel around her neck. 
+items: brandy: Sgt Borkenstein motions as if to offer you a sip from her brandy barrel. You graciously accept and feel the warmth of fine liquor flowing through your stomach., clothes: your outerwear is drying next to the fire as you realize you are wearing nothing but a down blanket and socks. Hastily you don your still slightly moist clothes before someone other than the dog catches your nearly naked visage.
+north: 2-6-1
+south: none
+east: 1-7-1
+west: 1-5-1
+inventory_items: none
+catch_attempts: 2
+

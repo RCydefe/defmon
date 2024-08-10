@@ -1,0 +1,8 @@
+description: A dry sandblasted wastes surround you. Rust stained sand drifts across a neglected asphalt road. To your South are scree filled cliffs. There’s nothing here but rocks covered in rocks surrounded by rocks. The pass continues to the East, and to the West a more forgiving landscape peeks out just on the horizon.
+items: rock: you can use these rocks to make smaller rocks
+north: 2-4-1
+south: none
+east: 1-3-2
+west: 1-5
+inventory_items: none
+catch_attempts: 1

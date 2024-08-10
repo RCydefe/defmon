@@ -1,0 +1,9 @@
+description: You are standing in the lobby of a building which is supposed to house multiple companies. From the foot traffic though it seems that Deftech is the only company actually leasing any space.
+items: Plants: Plastic plants are placed around the lobby., Desk: A receptionist sat here at one time. I think they were fired since only Deftech is in the building, Furniture: Dusty chairs and couches sit in a horse shoe along one wall.
+north: none
+south: none
+east: none
+west: 3-1-1
+inventory_items: none
+catch_attempts: 0
+

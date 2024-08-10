@@ -1,0 +1,12 @@
+description: As you move out of the forest you see a rocky, mountainous region inhabited by mountain goats. An impassable crag lies to the west and south, but you see other creatures on the mountains across the chasm, scurrying in and out of tunnels like a colony of ants. As you scan the area, a mountain goat with a top hat and bright orange beard draws near and begins to speak.
+“The path forward was crafted with tools from the ancient text. To understand your mission, seek the scribe they call Bo Beck.”
+“Where can this scribe be found?”, you ask.
+The goat glares into your eyes, looking past the mere veneer of your visage, into the core of what makes you what you are. A feeling of dread enters your soul as you realize you are being weighed and judged by the dead-eyed, ominous beast before you. The goat snorts as its decision seems to be made, turns its hind quarters to you, promptly shits at your feet, and leaps into the abyss. 
+You place the goat shit into your bag to use at a later time. 
+items: mythical: leprechaun goats and poopie are scattered around the area.
+north: 5-4-1
+south: none
+east: 4-7-1
+west: none
+inventory_items: none
+catch_attempts: 1

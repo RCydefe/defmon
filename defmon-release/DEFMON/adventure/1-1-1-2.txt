@@ -1,0 +1,8 @@
+description: You now stand in the center of your bedroom. This is odd as you entered Digitaria from work. Have you really escaped the VR world? Will you ever be sure of what is real?
+items: note: It reads "play on hacker. Hope you enjoyed the journey."
+north: none
+south: none
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

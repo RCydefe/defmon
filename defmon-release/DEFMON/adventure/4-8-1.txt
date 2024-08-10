@@ -1,0 +1,8 @@
+description: The water stretches to the horizon and reflects the blinding sun. It’s hard to tell if you can see anything in the distance, or if it’s just last night’s shenanigans that haven’t worn off. Sea life scampers across the beach and you can see creatures swimming in the reef. If a wild defmon were to spawn here, you know it’d look like a karp. Nothing appears abnormal, but you can see some activity happening to the north. 
+items: fish: An annoyed fish splashes in the water.
+north: 5-8-1
+south: none
+east: 4-7-1
+west: 4-5-1
+inventory_items: none
+catch_attempts: 1

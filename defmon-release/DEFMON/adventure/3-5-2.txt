@@ -1,0 +1,10 @@
+description: The Defmon you didn't choose stands there staring at you. It looks at you with a puzzling look on its face.
+items: grass: The grass blows around you in a majestic manner.
+north: 4-5
+south: none
+east: none
+west: none
+inventory_items: none
+inventory_items: none
+catch_attempts: 0
+

@@ -1,0 +1,8 @@
+description: A short stretch of beach curves to the left and runs along the base of the rocky cliff. You stare into the northeast and look for any sign of life out to the horizon. A large deep shadow cuts through darts from side to side in the water. The waves ripple and pulse as a large creature swirls just beneath the surface. The silhouette of a massive serpent takes shape beneath the waves, writhing violently in a clockwise motion, forming a powerful whirlpool. The silhouette streaks away and disappears in the distance, but the whirlpool continues to churn.
+items: whirlpool: a seemingly never ending whirlpool sits in the middle of the pool.
+north: none
+south: 4-8-1
+east: none
+west: 5-7-1
+inventory_items: none
+catch_attempts: 0

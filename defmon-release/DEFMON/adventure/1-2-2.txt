@@ -1,0 +1,8 @@
+description: Using your torch you are now able to approach hackwolf. It looks apprehensive but it knows going with you is the right thing to do.
+items: hackwolf: Hackwolf snarls a bit as you approach. It quickly settles down and decides to join your party.
+north: none
+south: none
+east: 1-3
+west: none
+inventory_items: hackwolf
+catch_attempts: 0

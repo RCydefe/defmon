@@ -1,0 +1,8 @@
+description: The space is functional and straightforward, with clean lines and a monochromatic color scheme of white and gray. However, the minimalist elegance is marred by a layer of neglect. The mirror above the sink is smudged with toothpaste splatters and streaks, hinting at hurried morning routines. The sink itself is dotted with stray hairs and soap residue, while the once-polished chrome faucet is dulled by water spots.
+items: sink: The sink is covered with various well used grooming items., Toilet: You stare at the porcelain throne. You don't need to use it at this time., Shower: It looks like it can only fit one person. A white curtain shields your eyes from the grime.
+north: 1-1-3
+south: none
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

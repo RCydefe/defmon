@@ -1,0 +1,8 @@
+description: The living room is sparse and minimalist, looking like something straight out of an Ikea catalogue. The clean lines and sleek, modern furniture create an atmosphere of untouched simplicity. Untouched of course due to the bedroom being where most of the time is spent in the apartment.
+items: Coffee Table: Empty except for a few remotes., Tv: Turned off and cold. As if the last time it was used was when someone else lived here, Couch: It looks stiff and uncomfortable.
+north: 2-1
+south: 1-1-4
+east: none
+west: 1-1-2
+inventory_items: none
+catch_attempts: 0

@@ -1,0 +1,8 @@
+description: As you climb towards the top of a sandy dune, the gentle burble of water grows louder in your ears. You glance over the crest of the dune and can’t help but notice a testament to humankind's hubris - a concrete clad river, starving the desert of water to feed some unseen project or city. 
+items: Sand: So much sand. You try to ignore it but its worked its way into your underoos. No matter where you journey from here you will have a piece of this desert in your boxers. 
+north: 3-4-1
+south: 1-4-1
+east: none
+west: 2-3-1
+inventory_items: none
+catch_attempts: 2

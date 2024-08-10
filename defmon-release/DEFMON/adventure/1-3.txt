@@ -1,0 +1,12 @@
+Description: An acrid smell reminiscent of forgotten soggy gym socks fills your nostrils. Heavy machinery rolls on through carrying a melange of civilization’s detritus. Dust and mold lay heavy in the air as a mound clad in corvids thrusts into the grey skies above you. To your east, rocky wastelands grow into the distance. To your west is a dark looming forest. Impassible crags flowing with water sit to your north.
+Items: Trash: A moist trashbag full of more empty trash bags oozes even more onto the floor. You don’t want this. I dont wan’t this. Nobody wants this. 
+north: none
+south: none
+east: 1-2
+east_with_torch: 1-2-2
+west: 1-4-1
+inventory_items: none
+catch_attempts: 2
+
+
+

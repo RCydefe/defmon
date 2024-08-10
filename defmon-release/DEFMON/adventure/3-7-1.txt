@@ -1,0 +1,8 @@
+description: Cliffs line both eastern and western sides of the field ahead of you. The animal skeletons no longer litter the ground. There’s nothing special or noteworthy here. Some environments are just transitional, not everything has to be special or have a gimmick. Just move on to the next area. 
+items: seriously: You need something special here too? Fine the C-137 droids shoot your stomach with a portal gun that transports your intestines to another timeline. You die in a mundane field because you thought every single scene needs to be some complex entertaining trope. Adventure over. That what you wanted? No? Then just go onto the next area.
+north: 4-7-1
+south: 2-7-1
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

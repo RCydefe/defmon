@@ -1,0 +1,9 @@
+description: The world around you becomes more and more real every second. One last portal stands before you.
+items: none: you see nothing of interest.
+north: 4-5
+south: none
+south_with_rubberducky: 1-1-1-2
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

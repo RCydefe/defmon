@@ -1,0 +1,8 @@
+description: The game trail you’ve been following for the past hour thins out in black ash forest. Your feet sink deeper into the ever-soggier ground as you push further into the forest until you find yourself on the edge of tree rimmed lake. An indescribable ungulate glance at you with disinterest as it drinks, wearily watching for predators. Your gaze shifts from the antlered beast towards a log that has revealed itself as an alligator looking to convert you into a meat-filled treat. 
+items: teeth: you step back as the alligator lunges for you and crashes into the ash tree behind you clearly misjudging your distance. It retreats back into the lake having knocked out a handful of teeth., mud: sticky mud clings to your shoes as you slog to avoid the alligator’s gaze. Its best to get out of here before you get turned into a tasty aquatic treat.
+north: none
+south: 5-5-1
+east: 1-6-1
+west: 2-7-1
+inventory_items: none
+catch_attempts: 1

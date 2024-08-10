@@ -1,0 +1,11 @@
+description: You step into Digitaria, the vibrant world of Defmon. Bright skys illuminate the path ahead, and a digital flora landscape pulses with a rhythmic glow. Two mysterious creatures stand before you, ready to join your journey. They are bouncing back and forth on their feet anxious for you to choose one for your adventure.
+items: Hackitty: A cute fluffy cat wearing a hoodie with a tail that looks like cotton candy. It has big eyes that look deep into your soul., lucifire: A creature with molten metal skin. You can see the ground around its feet slowly decay more and more the longer is stays in one place.
+north: 4-5
+south: none
+east: none
+west: none
+starter1: Hackitty
+starter2: Lucifire
+inventory_items: none
+catch_attempts: 0
+

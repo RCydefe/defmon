@@ -1,0 +1,8 @@
+description: You come across a swaying, half collapsed bridge. Across from you stands a small island with a fox like Defmon staring you down.
+items: bridge: You notice two metal rings hanging from the bridge. If you had something solid you could join the two rings and stabilize the bridge.
+north: none
+south: 4-1
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

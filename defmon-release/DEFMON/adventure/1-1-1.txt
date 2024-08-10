@@ -1,0 +1,8 @@
+description: You are in the Hacker's Room. The room is filled with computers, monitors, and electronic gadgets. On one wall, there's a large map of Digitaria, the digital world of Defmon.
+items: computer: An old computer with blinking lights and a keyboard, map: A large map of the digital world of Defmon showing various locations.
+north: 1-1-2
+south: none
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

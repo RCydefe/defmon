@@ -1,0 +1,8 @@
+description: You exit your apartment building onto a street. It's a cloudy day and the street is devoid of any traffic. Directly across from you is Deftech. It's ominous facade bares down on you as you think about how much work you have to accomplish today. No need to go left or right. Your work lays straight ahead.
+items: gum: There is gum on the ground. Don't touch it., Tim: A pigeon you named tim stares at you as you exit. What does he know?, Trash: A Smash Burger cup rolls along from the wind. Poor Trevor.
+north: 3-1
+south: 1-1
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

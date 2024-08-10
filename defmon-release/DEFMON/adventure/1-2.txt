@@ -1,0 +1,8 @@
+description: You enter a dark forest. You are unable to see anything around you.
+items: darkness: The darkness surrounds you.
+north: none
+south: none
+east: 1-3
+west: none
+inventory_items: none
+catch_attempts: 0

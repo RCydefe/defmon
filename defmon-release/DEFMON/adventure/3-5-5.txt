@@ -1,0 +1,9 @@
+description: The fading intensifies as the normal world comes more into view.
+items: none: you see nothing of interest.
+north: 3-5-3
+south: none
+south_with_nanogen: 3-5-6
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

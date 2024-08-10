@@ -1,0 +1,8 @@
+description: The forest in front of you is blocked by a wall of felled trees that had to be built by someone. As you investigate, you push and pull on the logs, checking for gaps to slip through. As you pry, a cloth jars loose from the wall and lands with a hefty thud. You unwrap the cloth to unveil a sleek, obsidian colored wand. As you grasp it, you feel electricity course through your arm as the power seems to grasp you in return. You feel energy radiate with an invisible glow as the wand melts to perfectly form into your hand. It feels like a weapon of great importance, yet has no indications of being used in that way. It’s clear the wand is from a much older time, but its usefulness is not as clear. You wonder what purpose you will find for it as you add it to your things.
+items: wand: powerful ancient relic with unclear purpose: vibrates with energy
+north: 5-5-1
+south: 3-5-1
+east: 4-6-1
+west: 4-4-1
+inventory_items: none
+catch_attempts: 1

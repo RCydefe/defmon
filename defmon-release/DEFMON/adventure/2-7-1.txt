@@ -1,0 +1,8 @@
+description: Wildflowers cling to the prairie as a warm breeze blows from the South. To your South a patch of brambles obstructs your path. 
+items: Rose: a solitary wild rose sits among the spiderworts. You feel compelled to pluck it and pin it to your lapel. Maybe you’ll meet a love interest on this journey or maybe you’ll look dapper when you get back to civilization. 
+north: 3-7-1
+south: 2-7-1
+east: none
+west: 2-6-1
+inventory_items: none
+catch_attempts: 1

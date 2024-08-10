@@ -1,0 +1,8 @@
+description: You continue into another field. In this field you find nanogen bouncing around the grasses.
+item: nanogen: nothing special was needed for this little fella to quickly join your party.
+north: none
+south: none
+east: 1-7-1
+west: none
+inventory_items: nanogen
+catch_attempts: 0

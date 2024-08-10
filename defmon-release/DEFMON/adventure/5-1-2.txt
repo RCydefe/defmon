@@ -1,0 +1,8 @@
+description: You have stabilized the bridge and now standing in front of you is etherfox. It looks ready to join your party.
+items: etherfox: etherfox looks at you excitedly waiting to exit the area with you.
+north: none
+south: 4-1
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0

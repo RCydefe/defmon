@@ -1,0 +1,10 @@
+description: The kitchen is a cluttered but cozy space, filled with an array of gadgets and gizmos. The countertops are lined with old circuit boards, soldering irons, and half-disassembled devices. A faint smell of ozone and fresh coffee permeates the air.
+items: 2600: This quarters 2600 sits on the counter. The edges are warped and curled from repeated readings, Coffee: You take a swig of a cold cup of coffee. You feel something solid slide down your throat and remember its a few days old., Dishes: You really need to wash these.
+north: none
+south: 1-1-1
+east: 1-1-3
+west: none
+inventory_items: none
+catch_attempts: 0
+
+

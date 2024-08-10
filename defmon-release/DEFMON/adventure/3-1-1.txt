@@ -1,0 +1,9 @@
+description: You ride the elevator to your office floor. The carpet is musty and stinks of the 1970s. The smell of mold assaults your nose as the elevator rattles.
+items: carpet: It is damp and smells of mold. Why is it always damp?, Buttons: The elevators buttons have had their numbers worn away ages ago., Light: A fluorescent light buzzes above your head.
+north: 3-1-2
+south: none
+east: none
+west: none
+inventory_items: none
+catch_attempts: 0
+

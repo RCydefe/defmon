@@ -1,0 +1,8 @@
+description: You try to physically shake the bizarre goat encounter from your system, but the mental wound is quite fresh. As you scan your options to proceed, a large forest spans to the east as multiple smoke stacks rise to the clouds. To the west, scattered lights decorate the hillside, plumes of smoke waft delicious smells into the atmosphere, and music echoes across the plain. 
+item: none
+north: none
+south: 4-4-1
+east: 5-5-1
+west: 5-3-1
+inventory_items: none
+catch_attempts: 0

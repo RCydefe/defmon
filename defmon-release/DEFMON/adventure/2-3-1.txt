@@ -1,0 +1,8 @@
+description: Sand breaks free from your cheeks as you walk along the bank. The creek’s current flows steadily from the waterfall, feeding the plant life and pushing debris down stream where it jams against fallen trees and creates a natural dam. The mountains grow brown and rocky to the north, while the deep forest to the south howls as a terrifying wind whips through the trees. Distracted by the swaying trees, you step into a deep puddle and fill your shoes with water. 
+item: none
+north: 3-3-1
+south: 1-3-1
+east: 2-4-1
+west: none
+inventory_items: none
+catch_attempts: 1

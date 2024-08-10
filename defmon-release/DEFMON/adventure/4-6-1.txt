@@ -1,0 +1,8 @@
+description: You pass into the dark forest as the sun disappears behind the trees. A pillar of stone blocks the southern pass. The forest seems to get thicker and darker the further you go in, until you’re nearly suffocating from the humidity in the air. A tree stump with an axe wedged into it comes into view on your path. As you dislodge the axe, the handle crumbles and the axe head lands on your foot.  As you struggle to catch your breath and limp onward, beams of light start to stream through the darkness. 
+items: chaos: You see a broken axe and have a sore foot.
+north: 5-6-1
+south: none
+east: 4-7-1
+west: 4-5-1
+inventory_items: none
+catch_attempts: 2
