@@ -323,10 +323,11 @@ def load_room(room_name):
     return room_data
 
 # Display functions
+menu_items = ["Adventure", "Defdex", "Credits"]
+
 def show_high_level_menu():
     oled.fill(0)
     oled.text("Main Menu", 0, 0)
-    menu_items = ["Adventure", "Defdex"]
     for index, item in enumerate(menu_items):
         if index == current_menu_selection:
             oled.text("> " + item, 0, (index + 1) * 10)
@@ -541,6 +542,19 @@ def choose_starter_defmon(room_data):
             break
         time.sleep(0.1)
 
+def show_credits():
+    credits_text = """
+    Co-Creators:
+    - B0rk
+    - Marba$
+    - yci
+    - 13L4Z!N
+    - FraggleRock
+    - Tkdemon
+    - 13L4Z!N & PirateMaal
+    """
+    display_text_with_scroll(credits_text.strip())
+
 def main():
     global current_menu_selection, high_level_menu, in_menu, in_adventure, in_defdex, defdex_selection, current_location
 
@@ -560,15 +574,14 @@ def main():
             if high_level_menu or in_menu or in_defdex:
                 current_menu_selection -= 1
                 if current_menu_selection < 0:
-                    current_menu_selection = 1 if high_level_menu else (3 if in_menu else len(defdex["defmons"]) - 1)
+                    current_menu_selection = len(menu_items) - 1 if high_level_menu else (3 if in_menu else len(defdex["defmons"]) - 1)
                 if in_defdex:
                     defdex_selection = current_menu_selection
-            #time.sleep(0.1)
 
         elif not pb_dn.value():
             if high_level_menu or in_menu or in_defdex:
                 current_menu_selection += 1
-                if high_level_menu and current_menu_selection > 1:
+                if high_level_menu and current_menu_selection >= len(menu_items):
                     current_menu_selection = 0
                 elif in_menu and current_menu_selection > 3:
                     current_menu_selection = 0
@@ -576,19 +589,22 @@ def main():
                     current_menu_selection = 0
                 if in_defdex:
                     defdex_selection = current_menu_selection
-            #time.sleep(0.1)
 
         elif not pb_sl.value():
             if high_level_menu:
-                if current_menu_selection == 0:
+                if current_menu_selection == 0:  # Adventure
                     high_level_menu = False
                     in_menu = True
                     if current_location == "3-5":
                         room_data = load_room(current_location)
                         choose_starter_defmon(room_data)
-                elif current_menu_selection == 1:
+                elif current_menu_selection == 1:  # Defdex
                     high_level_menu = False
                     in_defdex = True
+                elif current_menu_selection == 2:  # Credits
+                    high_level_menu = False
+                    show_credits()
+                    high_level_menu = True  # Return to main menu after displaying credits
             elif in_menu:
                 room_data = load_room(current_location)
                 if current_menu_selection == 0:
@@ -604,7 +620,6 @@ def main():
                     if d["name"] == defmons[defdex_selection] or d["caught"]:
                         view_defdex_entry(d)
                         break
-            #time.sleep(0.1)
 
         elif not pb_bk.value():
             if in_menu or in_defdex:
@@ -615,12 +630,9 @@ def main():
             oled.fill(0)
             oled.text("Back to main menu...", 0, 0)
             oled.show()
-            #time.sleep(1)
             show_high_level_menu()
-            #time.sleep(0.1)
 
         time.sleep(.1)
+
 if __name__ == "__main__":
     main()
-
-
