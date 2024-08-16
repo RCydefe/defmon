@@ -1,6 +1,6 @@
-description: You ride the elevator to your office floor. The carpet is musty and stinks of the 1970s. The smell of mold assaults your nose as the elevator rattles.
-items: carpet: It is damp and smells of mold. Why is it always damp?, Buttons: The elevators buttons have had their numbers worn away ages ago., Light: A fluorescent light buzzes above your head.
-north: 3-1-2
+description: You stand in the center of a sterile looking white room white room with walls and floor adorned with a black grid system. In front of you through the VR headset you can see a crackling purple portal.
+items: headset: A VR headset hung in the center of the room. It currently sits on top of your head, portal: The portal crackles with energy. Brent was very proud of the crackling effect. he put a lot of work into it.
+north: 3-5
 south: none
 east: none
 west: none
