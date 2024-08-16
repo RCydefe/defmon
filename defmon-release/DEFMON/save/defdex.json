@@ -1,22 +1,477 @@
 {
-    "defmons": [
-        {"name": "Aetherant", "description": "Insectoid creatures that work collectively in the unseen spaces of the internet, building and maintaining the structural integrity of the digital world.", "caught": false},
-        {"name": "BinBanshee", "description": "With screams that can shatter data structures, these entities are feared in the digital world, often heralding the crash of systems or the corruption of files.", "caught": false},
-        {"name": "Bytegeist", "description": "Ghostly entities that haunt the internet, moving through networks and causing digital mischief.", "caught": false},
-        {"name": "Circuitaur", "description": "Half-machine, half-beast creatures with bodies adorned in complex circuitry, capable of generating electromagnetic fields to protect their domain.", "caught": false},
-        {"name": "Datawyrm", "description": "Cunning digital spirits that navigate the vast expanse of the cyber ether, leaving trails of puzzles and riddles in their wake.", "caught": false},
-        {"name": "Etherfox", "description": "A stealthy forest guardian.", "caught": false},
-        {"name": "Gigawisp", "description": "Tiny, glowing creatures that live in the cloud, capable of carrying vast amounts of information over long distances at the speed of light.", "caught": false},
-        {"name": "Hackwolf", "description": "Lupine creatures with the ability to interface directly with technology, using their howls to communicate over vast digital distances..", "caught": false},
-        {"name": "Infobasil", "description": "Creatures whose gaze can freeze systems, turning data into incomprehensible strings of code, feared by all who tread the digital underworld.", "caught": false},
-        {"name": "Leviathan", "description": "Massive creatures that reside in the deep web, embodying the vast, uncharted territories of the internet and protecting ancient digital secrets.", "caught": false},
-        {"name": "NanitNymph", "description": "Tiny, benevolent beings that repair and maintain the microscopic world of nanotechnology, often unseen but crucial to the smooth operation of advanced tech.", "caught": false},
-        {"name": "Phantobyte", "description": "Ethereal entities that can pass through any digital barrier, leaving traces of their passage like digital footprints in the snow.", "caught": false},
-        {"name": "Pulseprowl", "description": " Night creatures that travel via electrical pulses, their presence often heralding system outages or, conversely, the repair and restoration of electrical grids.", "caught": false},
-        {"name": "Terrabytan", "description": "Colossal entities composed of solid data, they shape and manipulate the digital terrain, creating and destroying data landscapes at will.", "caught": false},
-        {"name": "Voltgeist", "description": "Spirits of electricity that inhabit and travel through power lines, capable of manipulating electronic devices..", "caught": false},
-        {"name": "PixelPixie", "description": "Tiny, fluttering beings that sprinkle creative inspiration across digital canvases, responsible for moments of brilliance in graphic design and digital art.", "caught": false},
-        {"name": "Data Drake", "description": "Dragon-like entities that hoard vast amounts of information rather than gold, fiercely protecting their treasures from data thieves and hackers.", "caught": false},
-        {"name": "Codenix", "description": "Bird-like creatures with feathers made of pure data, capable of soaring through the digital skies, carrying messages and codes across the cybernetic expanse.", "caught": false}
-    ]
+  "defmons": [
+    {
+      "name": "Hackitty",
+      "description": "A cute fluffy cat wearing a hoodie with a tail that looks like cotton candy. It has big eyes that look deep into your soul.",
+      "atk": 18,
+      "def": 22,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "lucifire",
+      "description": "A creature with molten metal skin. You can see the ground around its feet slowly decay more and more the longer is stays in one place.",
+      "atk": 15,
+      "def": 22,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "BinBanshee",
+      "description": "With screams that can shatter data structures, these entities are feared in the digital world, often heralding the crash of systems or the corruption of files.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Bytebloom",
+      "description": "Floral-like creatures that grow in digital environments, their petals composed of light and data, blooming in response to the flow of information.",
+      "atk": 22,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Bytegeist",
+      "description": "Ghostly entities that haunt the internet, moving through networks and causing digital mischief.",
+      "atk": 13,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "SylphCuit",
+      "description": "Airy spirits of the machine world, they dance within the flow of electrons, guiding and protecting the pathways of information.",
+      "atk": 13,
+      "def": 13,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Circuitaur",
+      "description": "Half-machine, half-beast creatures with bodies adorned in complex circuitry, capable of generating electromagnetic fields to protect their domain.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Codegriff",
+      "description": "Majestic and powerful, these creatures have wings of solar panels and tails of fiber optics, symbolizing the fusion of nature and technology.",
+      "atk": 22,
+      "def": 15,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Codenix",
+      "description": "Bird-like creatures with feathers made of pure data, capable of soaring through the digital skies, carrying messages and codes across the cybernetic expanse.",
+      "atk": 13,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "DexKraken",
+      "description": "Tentacled titans of the data sea, entangling unsuspecting data packets with their long limbs, guarding the secrets of the oceanic web.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Cryptomera",
+      "description": "A beast of many forms, each part representing different aspects of technology—software, hardware, and the cloud—making it a formidable guardian of digital realms.",
+      "atk": 13,
+      "def": 22,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Cryptoclaw",
+      "description": "Stealthy predators that lurk in the shadowy corners of the net, their claws can decrypt or shred data with a single swipe.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Cyntaur",
+      "description": "Half-human, half-machine entities that patrol the boundaries between the digital and physical worlds, ensuring balance and preventing breaches from either side.",
+      "atk": 13,
+      "def": 13,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Cyberdrake",
+      "description": "A digital dragon made of code and data, capable of diving into and manipulating digital environments with ease.",
+      "atk": 22,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Data Drake",
+      "description": "Dragon-like entities that hoard vast amounts of information rather than gold, fiercely protecting their treasures from data thieves and hackers.",
+      "atk": 13,
+      "def": 22,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Databeast",
+      "description": "Massive, formidable creatures that reside within the depths of the dark web, guarding the most dangerous secrets and data.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Datawyrm",
+      "description": "Serpentine beings that live within cables and fiber optics, feeding on streams of data and occasionally causing disruptions in data flow.",
+      "atk": 22,
+      "def": 15,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "DigiDjinn",
+      "description": "Mystical spirits bound to ancient algorithms, granting wishes to those who can decipher their complex riddles, embodying the power and mystery of old and new tech.",
+      "atk": 13,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Echomental",
+      "description": "Born from the echoes of digital communication, these creatures can mimic any sound or voice, used in both harmony and discord in the cyber world.",
+      "atk": 22,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Cryptohorn",
+      "description": "Mythical horses whose horns can unlock or encrypt any digital lock, guardians of the most sacred digital secrets.",
+      "atk": 13,
+      "def": 22,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Etherfox",
+      "description": "Cunning digital spirits that navigate the vast expanse of the cyber ether, leaving trails of puzzles and riddles in their wake.",
+      "atk": 13,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Fractaling",
+      "description": "Beings that exist on the edge of reality and the digital domain, their forms constantly shifting in mesmerizing patterns that reveal the underlying order of the universe.",
+      "atk": 22,
+      "def": 15,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Gigawisp",
+      "description": "Tiny, glowing creatures that live in the cloud, capable of carrying vast amounts of information over long distances at the speed of light.",
+      "atk": 22,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Glimmergar",
+      "description": "Mechanical beings that emit a soft, ethereal glow, their intricate gear systems harmonizing the analog and digital worlds through their movements.",
+      "atk": 13,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "GlitchGrem",
+      "description": "Mischievous entities known for inhabiting outdated or buggy software, causing unexpected errors and sometimes revealing hidden digital pathways.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "GlitchGob",
+      "description": "Mischievous beings that thrive on creating chaos within networks, their laughter echoing through corrupted files and frozen screens.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Hackwolf",
+      "description": "Lupine creatures with the ability to interface directly with technology, using their howls to communicate over vast digital distances.",
+      "atk": 13,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Infobasil",
+      "description": "Creatures whose gaze can freeze systems, turning data into incomprehensible strings of code, feared by all who tread the digital underworld.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Logiclynx",
+      "description": "These creatures possess an innate understanding of complex algorithms and coding languages, often sought after by cyber mages for their wisdom and guidance.",
+      "atk": 22,
+      "def": 13,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Leviathan",
+      "description": "Massive creatures that reside in the deep web, embodying the vast, uncharted territories of the internet and protecting ancient digital secrets.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Meme Mimic",
+      "description": "Shape-shifting tricksters born from the viral nature of memes, capable of altering their appearance to spread laughter or chaos across the internet.",
+      "atk": 22,
+      "def": 15,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "NanitNymph",
+      "description": "Tiny, benevolent beings that repair and maintain the microscopic world of nanotechnology, often unseen but crucial to the smooth operation of advanced tech.",
+      "atk": 22,
+      "def": 15,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Nanogon",
+      "description": "Dragon-like entities made up of swarms of nanobots, able to reshape themselves for various tasks, from data recovery to system repair.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Neonymph",
+      "description": "These radiant beings are born from the energy of the neon lights of the cyber city, fluttering between screens and devices, bringing inspiration to the lost.",
+      "atk": 22,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Netnaiad",
+      "description": "Water spirits of the digital realm, they govern the flow of data like rivers, ensuring smooth and uninterrupted digital streams.",
+      "atk": 13,
+      "def": 22,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Netnymph",
+      "description": "Ethereal guardians of the digital realm, they ensure the flow of information remains uninterrupted and secure.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "NeuralNiad",
+      "description": "Digital spirits of artificial intelligence, residing within neural networks, guiding the flow of machine learning and cognitive processing.",
+      "atk": 22,
+      "def": 15,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Phrocessor",
+      "description": "Ghostly figures that enhance or disrupt computing power, their presence is a boon or bane to tech developers, depending on the spirit's whims.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Phantobyte",
+      "description": "Ethereal entities that can pass through any digital barrier, leaving traces of their passage like digital footprints in the snow.",
+      "atk": 13,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "PixelPixie",
+      "description": "Tiny, fluttering beings that sprinkle creative inspiration across digital canvases, responsible for moments of brilliance in graphic design and digital art.",
+      "atk": 22,
+      "def": 15,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Pixelpest",
+      "description": "Tiny, insect-like nuisances that feed on low-quality graphics and poorly written code, often responsible for minor glitches and visual artifacts.",
+      "atk": 22,
+      "def": 15,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Pixelphin",
+      "description": "Aquatic mammals thriving in digital oceans, they navigate through waves of data with their sonar-like abilities.",
+      "atk": 22,
+      "def": 15,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Pulseprowl",
+      "description": "Night creatures that travel via electrical pulses, their presence often heralding system outages or, conversely, the repair and restoration of electrical grids.",
+      "atk": 22,
+      "def": 13,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Quantumqil",
+      "description": "Bird-like creatures with feathers that shimmer with holographic data, capable of instantaneous communication across vast digital networks.",
+      "atk": 13,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Quantumqvr",
+      "description": "Ethereal archers whose arrows can change the state of digital matter, making them invaluable in battles over data integrity and cyber security.",
+      "atk": 22,
+      "def": 13,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Shadwcodec",
+      "description": "Elusive entities that manipulate and travel through shadows in the digital code, capable of uncovering hidden secrets or concealing information in plain sight.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Sig Sprite",
+      "description": "Playful but elusive entities that can enhance or disrupt wireless communications, dancing unseen between devices, spreading messages or mischief.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Silicat",
+      "description": "Feline creatures with bodies made of flexible screens and eyes that display constantly changing data, they are masters of camouflage in digital environments.",
+      "atk": 22,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Silicowyrm",
+      "description": "Ancient digital serpents whose bodies are composed of liquid silicon, capable of molding themselves into any form to protect the core of the net.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Sparksprit",
+      "description": "Tiny, energetic beings that dance across keyboards and screens, their touch capable of fixing bugs or causing spontaneous software innovations.",
+      "atk": 13,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "SpectrSurg",
+      "description": "Phantom-like beings that ride the currents of electrical surges, able to manifest in the physical world through bursts of power.",
+      "atk": 22,
+      "def": 15,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Stremsprit",
+      "description": "Playful beings that inhabit streaming data, weaving through live feeds and enhancing the quality of digital broadcasts with their presence.",
+      "atk": 22,
+      "def": 13,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Synserpent",
+      "description": "Mechanical snakes with bodies made of flexible metal and wires, capable of infiltrating any system by squeezing through the smallest of openings.",
+      "atk": 22,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Technotaur",
+      "description": "A cybernetic minotaur with circuitry patterns on its fur and a motherboard-inspired labyrinth as its home.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Terrabytan",
+      "description": "Colossal entities composed of solid data, they shape and manipulate the digital terrain, creating and destroying data landscapes at will.",
+      "atk": 13,
+      "def": 22,
+      "type": "Data",
+      "caught": false
+    },
+    {
+      "name": "Viravolk",
+      "description": "Shapeshifting digital entities known for their ability to mimic any software or virus, making them both feared and revered as protectors against cyber threats.",
+      "atk": 13,
+      "def": 22,
+      "type": "Anti-Virus",
+      "caught": false
+    },
+    {
+      "name": "Voltgeist",
+      "description": "Spirits of electricity that inhabit and travel through power lines, capable of manipulating electronic devices.",
+      "atk": 13,
+      "def": 13,
+      "type": "Virus",
+      "caught": false
+    },
+    {
+      "name": "Voltvortex",
+      "description": "Powerful entities that control electrical storms within networks, their presence signifying major changes or upheavals in digital infrastructures.",
+      "atk": 22,
+      "def": 13,
+      "type": "ANti-Virus",
+      "caught": false
+    },
+    {
+      "name": "WireWyvern",
+      "description": "Magnificent beasts with wings of fiber optic cables and talons of pure energy, capable of causing or fixing network disruptions with a flap of their wings.",
+      "atk": 13,
+      "def": 22,
+      "type": "Data",
+      "caught": false
+    }
+  ]
 }
+
