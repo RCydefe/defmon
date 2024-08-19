@@ -1,0 +1,7 @@
+description: You find yourself on the edge of a dense forest To your North and East, the forest continues. You hear the finches warble and the squirrels sound their alarm your presence disturbs their tranquility. To the northeast, you see a wisp of smoke emanating from deeper into the thicket. There’s not much here besides trees and cute forest creatures.
+items: aromatic pine needles: They smell nice and burn really good 
+north: 5-5-2
+south: none
+east: 5-5-4
+west:5-4 
+
