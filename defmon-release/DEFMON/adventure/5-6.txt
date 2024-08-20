@@ -1,0 +1,10 @@
+description: Surrounding you is a well-manicured, tightly mowed suburban lawn over rolling hills. A little slice of the suburbs without the suburbia. The short grasses sit blemish-free, buzzed of all character except green. You feel compelled to run barefoot through the field, feeling each blade of grass pushing in concert with its neighbors to blissfully tickle your soles.  Blue skies with fluffy white clouds roll on by. To your west lies a dark forest, your east is a steep drop-off overlooking a lake that is too steep to descend, and your south is a wooded stand. 
+items: grass: its grass all of the way down. 
+north: none
+south: 4-6
+east: none
+west: 5-5-2
+inventory_items: none
+catch_attempts: 3
+
+

@@ -1,0 +1,9 @@
+description: You stand in the middle of a soggy meadow. Your boots cling to the ground with every step as you trudge toward the south side of an old-growth forest. The trees blot out the sky to the Northwest but appear to thin towards the East. 
+items: Berries: Himalayan Blackberries sit ripe on their bushes as the faintest signs of winter waft through the air, Smoke: A hint of smoke carries through the wind from North to South. 
+north: 5-5-3
+south: 4-5
+east: 5-5-1
+West: 6-6
+inventory_items: none
+catch_attempts: 2
+

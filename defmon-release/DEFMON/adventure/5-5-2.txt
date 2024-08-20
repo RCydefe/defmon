@@ -1,0 +1,10 @@
+description: As far as the eye can see, mature evergreens blot the sky. The wind blows from East to West as you catch a hint of a recently extinguished fire. You hear a faint mechanical ticking in the distance. The deeper you tread into the forest, the less connected to modernity you feel. 
+items: torch: you find a small torch on the ground and decide to hang onto it 
+north: none
+south: 5-5-1
+east: 5-5-3
+West: 4-4
+inventory_items: torch
+catch_attempts: 0
+
+

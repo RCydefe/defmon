@@ -1,0 +1,10 @@
+description: The forest opens up to a small clearing with a well-worn shack. The mechanical ticking grows louder as you approach the structure and then suddenly stops as your foot crosses out of the treeline. You knock on the cabin door, but nobody answers. 
+items: window: you find the window unlatched and climb through cutting yourself on the roughly hewn trim, typewriter: on the typewriter you find a half-written page espousing the virtues of human autonomy, bread: sitting atop the hastily extinguished stove you find a loaf of freshly baked hand milled sourdough bread. 
+north: none
+south: 5-5-4
+east: 5-5-3
+west: 4-4
+inventory_items: bread
+catch_attempts: 0
+
+
