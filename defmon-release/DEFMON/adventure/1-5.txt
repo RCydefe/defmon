@@ -1,5 +1,5 @@
 description: Sand laced with a tangy amber substance piles into undulating ridges of sand for kilometers in every direction. A low rumbling carries through the ground, seemingly moving on its own. It's best to tread lightly to avoid unsettling whatever is creating the sound beneath the sand. 
-Items: spices might be good in curry or for folding space-time. All you know is that it must flow. 
+items: spices: might be good in curry or for folding space-time. All you know is that it must flow. 
 north: none
 south: none
 east: 1-6-1

@@ -1,5 +1,5 @@
 description: You walk through the rows of homes built into the mountain side, relaxing a bit as the sounds of life being lived temporarily melts away the concerns of your journey. It’s strange that with all the activities in the area, not a single person has been seen or met on the road. A lantern flickers in the windows of the shack high on the hill. You head to the building in hopes of speaking to whomever may be inside.
-item: none
+items: none
 north: none
 south: none
 east: 5-4-1

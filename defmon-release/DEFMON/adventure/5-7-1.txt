@@ -1,5 +1,5 @@
 description: A dense fog covers the mirrored glass surface of the water. Not a ripple can be seen despite the raging whirlpool churning nearby. The western cliff blocks the path at the end of the beach, there’s nowhere to go except back the way you came. 
-item: none
+items: none
 north: none
 south: none
 east: 5-8-1

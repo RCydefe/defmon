@@ -5,6 +5,5 @@ south: none
 east: none
 west: none
 inventory_items: none
-inventory_items: none
 catch_attempts: 0
 
